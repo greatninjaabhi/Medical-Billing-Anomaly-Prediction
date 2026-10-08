@@ -68,4 +68,4 @@ Nurse Practitioners had the most flags and the highest rate in this list. This i
 - `outlier_histogram.png`: the chart shown above
 
 ## Note
-I built this project with help from Claude (an AI assistant), which I used as a tutor to learn SQLite and work through the
+I built this project with help from Claude (an AI assistant), which I used as a tutor to learn SQLite and work through the analysis. I reviewed and understood all of the results, decisions, and conclusions.
